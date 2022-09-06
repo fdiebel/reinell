@@ -1,0 +1,4 @@
+*.FCStd1
+*.gcode
+*.bak
+.DS_Store
